@@ -1,2 +1,2 @@
-# Orphanage-Management-System
-Orphanage Management System: Efficiently manages orphanages with features for child records, staff coordination, donation tracking, and detailed reporting. Streamlines administration and strengthens support for better care of orphans.
+# Orphanage_Management
+Orphanage Management System: Streamlines orphan care with features like child records, staff management, donations tracking, and reporting. Simplifies administration and enhances support for orphanages.
